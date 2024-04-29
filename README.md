@@ -6,7 +6,7 @@
 
 <p align="center">
   ₊˚ʚ ᗢ₊˚✧ ﾟ. About me... <br/>
-  Hello! I am a Fullstack Developer, Computer Engineering Student, and crazy cat lady. I'm 25 years old from Argentina, loving both front end and back end development with slight preference to back end. I enjoy writing and drawing, as well as learning more programming and spoken languages. I'm always eager to learn more and gain new experience, meow. 🐈
+  Hello! I'm a passionate Web Developer and Computer Engineering Student from Argentina with expertise in JavaScript, TypeScript, HTML, CSS, and frameworks like Svelte and React.js. Skilled in collaborative project delivery and enthusiastic about problem-solving. Cat lover and creative thinker. Check out my projects to see my coding journey! 🐈
 
 </p>
 
@@ -33,7 +33,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  JavaScript | TypeScript | React | Redux | CSS | Express | Git | HTML | Node.js | PostgreSQL | Bootstrap | C | C++ <br/><br/>
+  JavaScript | TypeScript | Svelte |React | Redux | CSS | Express | Git | HTML | Node.js | PostgreSQL | Bootstrap | C | C++ <br/><br/>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -41,6 +41,10 @@
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a> 
+
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
     </a> 
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
